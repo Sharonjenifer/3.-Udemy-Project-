@@ -2,6 +2,10 @@
 
 This project is a sample Udemy-style website created using HTML and CSS. The design mimics the basic layout and structure of an online learning platform like Udemy, showcasing courses, categories, and user-friendly navigation.
 
+How to view:
+
+You can access my portfolio website by visiting [].
+
 **Features:**
 
 **Homepage:** Displays featured courses, categories, and promotional sections.
