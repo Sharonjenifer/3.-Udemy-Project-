@@ -4,7 +4,7 @@ This project is a sample Udemy-style website created using HTML and CSS. The des
 
 How to view:
 
-You can access my portfolio website by visiting [https://sharonjenifer.github.io/3.-Udemy-Project-/].
+You can access my website by visiting [https://sharonjenifer.github.io/3.-Udemy-Project-/].
 
 **Features:**
 
